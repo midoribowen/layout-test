@@ -44,6 +44,7 @@ a:active {
 .column-main {
   background-color: #9ACC99;
   width: 60%;
+  height: 660px;
   float: left;
   padding: 15px;
 }
@@ -53,7 +54,7 @@ a:active {
 .sidebar {
   background-color: #9999CD;
   width: 34%;
-  height: 667px;
+  height: 660px;
   float: left;
   padding: 15px;
 }
