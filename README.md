@@ -9,15 +9,13 @@
 This is a blog or webpage written from various animals' points-of-view.
 Buck's Dog Blog uses the basic css (styles.css), which I wrote, to design the page with a header, navigation bar, and two columns -- one for the main content of the page and one for a sidebar. All images within the main column float to the right. The two columns are made even using the  display: table attribute with divs around each column in the html document and then another div around both columns.
 Various links in Buck's Dog Blog also use styles.css.
-Musashi's World uses Bootstrap.
-The Juneau Report is a responsive version, using Bootstrap and a secondary stylesheet ().
+Musashi's World uses Bootstrap along with styles.css.
 
 ## Setup
 
-* Link styles.css within Buck's Dog Blog (index.html) and other basic pages (thor.html, shaka.html, ziggy.html, and ruby.html).
+* Link styles.css within Buck's Dog Blog (index.html).
 * Link bootstrap.css within Musashi's World (musashi.html).
-* Link responsive.css within The Juneau Report (juneau.html).
-* Push all .html, .css, and img files to remote repository in GitHub.
+* Push all .html, .css, .md, and img files to a remote repository in GitHub.
 * Push all files to GitHub Pages.
 
 ### Links
@@ -25,8 +23,6 @@ The Juneau Report is a responsive version, using Bootstrap and a secondary style
 Basic Layout Test: https://midoribowen.github.io/layout-test
 
 Layout Test w/Bootstrap: https://midoribowen.github.io/layout-test/musashi.html
-
-Layout Test - Responsive: https://midoribowen.github.io/layout-test/juneau.html
 
 ### Legal
 
